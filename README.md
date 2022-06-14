@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **DXC Technology Viet Nam**
 
-- 🌱 I’m currently learning **React JS, Next JS, Firebase**
+- 🌱  **Angular, React JS, Vue JS, Nuxt JS, Firebase**
 
 - 📫 How to reach me **luanthanhnguyen98@gmail.com**
 
