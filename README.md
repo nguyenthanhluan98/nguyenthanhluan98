@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenthanhluan98&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenthanhluan98" /> </p>
 
-- 🔭 I’m currently working on **DXC Technology Viet Nam**
+- 🔭 I’m currently working on **Genki System Viet Namm**
 
-- 🌱  **Angular, React JS, Vue JS, Nuxt JS, Firebase**
-
-- 📫 How to reach me **luanthanhnguyen98@gmail.com**
+- 🌱  ** Vue JS, React JS**
 
 
 
